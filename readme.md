@@ -1,2 +1,11 @@
 github disussion: https://github.com/xournalpp/xournalpp/discussions/3699  
 Windows Config Folder Location: C:\Users\USER\AppData\Local\xournalpp  
+
+Xournal++/share/xournalpp/ui/xournalpp.css
+```css
+/* Uncomment out and set as follows: */
+toolbar button
+{
+	padding: 10
+}
+```
